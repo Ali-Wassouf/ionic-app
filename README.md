@@ -20,7 +20,7 @@ After the user navigates to Tab 2 (Photos), they can tap/click on the camera but
   * Storing photo gallery metadata: [Preferences API](https://capacitor.ionicframework.com/docs/apis/preferences)
 
 ## Project Structure
-* Tab2 (Photos) (`src/app/tab2/`): Photo Gallery UI and basic logic.
+* Search (`src/app/search/`): Search
 * PhotoService (`src/app/services/photo.service.ts`): Logic encapsulating Capacitor APIs, including Camera, Filesystem, and Preferences.
 
 ## How to Run
